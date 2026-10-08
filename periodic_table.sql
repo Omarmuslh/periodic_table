@@ -132,15 +132,15 @@ INSERT INTO public.elements VALUES (10, 'Ne', 'Neon');
 -- Data for Name: properties; Type: TABLE DATA; Schema: public; Owner: freecodecamp
 --
 
-INSERT INTO public.properties VALUES (4, 9.012200, 1287, 2470, 1);
-INSERT INTO public.properties VALUES (3, 6.940000, 180.54, 1342, 1);
-INSERT INTO public.properties VALUES (8, 15.999000, -218, -183, 2);
-INSERT INTO public.properties VALUES (7, 14.007000, -210.1, -195.8, 2);
-INSERT INTO public.properties VALUES (6, 12.011000, 3550, 4027, 2);
-INSERT INTO public.properties VALUES (2, 4.002600, -272.2, -269, 2);
-INSERT INTO public.properties VALUES (1, 1.008000, -259.1, -252.9, 2);
-INSERT INTO public.properties VALUES (5, 10.810000, 2075, 4000, 3);
-INSERT INTO public.properties VALUES (10, 20.18, -248.6, -246.1, 2);
+INSERT INTO public.properties VALUES (4, 9.0122, 1287, 2470, 1);
+INSERT INTO public.properties VALUES (3, 6.9400, 180.54, 1342, 1);
+INSERT INTO public.properties VALUES (8, 15.9990, -218, -183, 2);
+INSERT INTO public.properties VALUES (7, 14.0070, -210.1, -195.8, 2);
+INSERT INTO public.properties VALUES (6, 12.0110, 3550, 4027, 2);
+INSERT INTO public.properties VALUES (2, 4.0026, -272.2, -269, 2);
+INSERT INTO public.properties VALUES (1, 1.0080, -259.1, -252.9, 2);
+INSERT INTO public.properties VALUES (5, 10.8100, 2075, 4000, 3);
+INSERT INTO public.properties VALUES (10, 20.1800, -248.6, -246.1, 2);
 
 
 --
